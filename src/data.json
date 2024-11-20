@@ -1,0 +1,152 @@
+{
+	"fr": {
+		"titre": "Découvrez les monuments parisiens",
+		"monuments": [
+			{
+				"id": 1,
+				"name": "Tour Eiffel",
+				"description": "Un emblème de Paris et une prouesse architecturale en fer forgé, construite pour l'Exposition universelle de 1889."
+			},
+			{
+				"id": 2,
+				"name": "Cathédrale Notre-Dame",
+				"description": "Une cathédrale gothique emblématique célèbre pour ses gargouilles et ses magnifiques vitraux."
+			},
+			{
+				"id": 3,
+				"name": "Louvre",
+				"description": "Un musée renommé abritant la Joconde et d'autres œuvres d'art de renommée mondiale."
+			},
+			{
+				"id": 4,
+				"name": "Arc de Triomphe",
+				"description": "Un monument honorant ceux qui ont combattu pour la France, situé au centre de la Place Charles de Gaulle."
+			},
+			{
+				"id": 5,
+				"name": "Sacré-Cœur",
+				"description": "Une basilique située au sommet de Montmartre, offrant une vue panoramique sur Paris."
+			}
+		]
+	},
+	"en": {
+		"titre": "Discover the Parisian Landmarks",
+		"monuments": [
+			{
+				"id": 1,
+				"name": "Eiffel Tower",
+				"description": "A symbol of Paris and an architectural marvel of wrought iron, built for the 1889 World's Fair."
+			},
+			{
+				"id": 2,
+				"name": "Notre-Dame Cathedral",
+				"description": "An iconic Gothic cathedral famous for its gargoyles and stunning stained glass windows."
+			},
+			{
+				"id": 3,
+				"name": "Louvre Museum",
+				"description": "A renowned museum housing the Mona Lisa and other world-famous artworks."
+			},
+			{
+				"id": 4,
+				"name": "Arc de Triomphe",
+				"description": "A monument honoring those who fought for France, located at the center of Place Charles de Gaulle."
+			},
+			{
+				"id": 5,
+				"name": "Sacré-Cœur Basilica",
+				"description": "A basilica located at the top of Montmartre, offering panoramic views of Paris."
+			}
+		]
+	},
+	"cs": {
+		"titre": "Objevte pařížské památky",
+		"monuments": [
+			{
+				"id": 1,
+				"name": "Eiffelova věž",
+				"description": "Symbol Paříže a architektonický zázrak z kovaného železa, postavený pro Světovou výstavu v roce 1889."
+			},
+			{
+				"id": 2,
+				"name": "Katedrála Notre-Dame",
+				"description": "Ikonická gotická katedrála proslulá svými gargoyly a nádhernými vitrážemi."
+			},
+			{
+				"id": 3,
+				"name": "Louvre",
+				"description": "Proslulé muzeum, které hostí Mona Lisu a další světově známá umělecká díla."
+			},
+			{
+				"id": 4,
+				"name": "Vítězný oblouk",
+				"description": "Pomník uctívající ty, kteří bojovali za Francii, nacházející se uprostřed náměstí Charlese de Gaulla."
+			},
+			{
+				"id": 5,
+				"name": "Basilika Sacré-Cœur",
+				"description": "Bazilika umístěná na vrcholu Montmartru, s panoramatickým výhledem na Paříž."
+			}
+		]
+	},
+	"hu": {
+		"titre": "Fedezze fel a párizsi nevezetességeket",
+		"monuments": [
+			{
+				"id": 1,
+				"name": "Eiffel-torony",
+				"description": "Párizs szimbóluma és egy kovácsoltvas építészeti csoda, melyet az 1889-es világkiállításra építettek."
+			},
+			{
+				"id": 2,
+				"name": "Notre-Dame székesegyház",
+				"description": "Egy ikonikus gótikus székesegyház, amely híres a kémkedő szobrokról és lenyűgöző színes üvegablakairól."
+			},
+			{
+				"id": 3,
+				"name": "Louvre múzeum",
+				"description": "Egy híres múzeum, amely a Mona Lisát és más világhírű műalkotásokat tartalmaz."
+			},
+			{
+				"id": 4,
+				"name": "Diadalív",
+				"description": "Egy emlékmű, amely tiszteleg azok előtt, akik Franciaországért harcoltak, és a Charles de Gaulle tér közepén található."
+			},
+			{
+				"id": 5,
+				"name": "Sacré-Cœur bazilika",
+				"description": "Egy bazilika, amely a Montmartre tetején található, lenyűgöző kilátással Párizsra."
+			}
+		]
+	},
+	"ko": {
+		"titre": "파리의 랜드마크를 발견하세요",
+		"monuments": [
+			{
+				"id": 1,
+				"name": "에펠탑",
+				"description": "1889년 세계 박람회를 위해 지어진 파리의 상징이자 철강 건축의 걸작."
+			},
+			{
+				"id": 2,
+				"name": "노트르담 대성당",
+				"description": "그림 같은 고딕 양식의 성당으로, 고유의 괴물 같은 조각상들과 아름다운 스테인드글라스 창문으로 유명하다."
+			},
+			{
+				"id": 3,
+				"name": "루브르 박물관",
+				"description": "모나리자와 세계적인 명작들이 전시된 유명한 박물관."
+			},
+			{
+				"id": 4,
+				"name": "샹젤리제 개선문",
+				"description": "프랑스를 위해 싸운 이들을 기리기 위한 기념비로, 샤를 드 골 광장의 중앙에 위치해 있다."
+			},
+			{
+				"id": 5,
+				"name": "사크레쾨르 대성당",
+				"description": "몽마르트르 언덕에 위치해 있으며 파리의 전경을 한눈에 볼 수 있는 대성당."
+			}
+		]
+	}
+}

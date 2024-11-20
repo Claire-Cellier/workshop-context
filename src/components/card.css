@@ -1,0 +1,73 @@
+/* Style global de la carte */
+.card {
+	background-color: #ff4081; /* Rose vif */
+	color: white;
+	border-radius: 15px;
+	padding: 20px;
+	margin: 20px;
+	width: 250px;
+	transition: all 0.3s ease-in-out;
+	position: relative;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+	text-align: center;
+	font-family: "Arial", sans-serif;
+	width: 200px;
+}
+
+.card:hover {
+	transform: translateY(-10px); /* Élève la carte au survol */
+	box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+	background-color: #ff80ab; /* Change de couleur en survol */
+}
+
+/* Titre du monument */
+.card h2 {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #fffb00; /* Jaune éclatant */
+}
+
+/* Description du monument */
+.card p {
+	font-size: 1rem;
+	line-height: 1.4;
+	color: #f0f0f0;
+	margin-bottom: 0;
+	font-style: italic;
+}
+
+/* Effet de fond en dégradé */
+.card::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(45deg, #ff4081, #ff80ab);
+	opacity: 0.1;
+	z-index: -1; /* Mettre derrière le contenu de la carte */
+	border-radius: 15px;
+	transform: scale(1.2);
+	animation: backgroundAnimation 4s infinite ease-in-out;
+}
+
+/* Animation de dégradé en arrière-plan */
+@keyframes backgroundAnimation {
+	0% {
+		transform: scale(1.2);
+		opacity: 0.1;
+	}
+	50% {
+		transform: scale(1.3);
+		opacity: 0.2;
+	}
+	100% {
+		transform: scale(1.2);
+		opacity: 0.1;
+	}
+}
